@@ -2,6 +2,7 @@ package com.weiyu.singleton.demo;
 
 /**
  * @author weiyu
+ * 确保一个类只有一个实例，而且自行实例化并向整个系统提供这个实例
  * @description 单例模式（懒汉）
  * @create 2017/6/23
  */
@@ -14,7 +15,7 @@ public class LazySingleton {
     }
 
     public static LazySingleton getInstance(){
-        synchronized (instance){
+        synchronized (LazySingleton.class){
             if (instance == null)
                 instance = new LazySingleton();
         }
