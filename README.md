@@ -1,2 +1,2 @@
 # design-pattern
-java design pattern demo
+* java设计模式学习案例

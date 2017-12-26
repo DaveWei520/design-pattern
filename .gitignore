@@ -1,0 +1,56 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Java template
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+/.idea/
+/design-pattern.iml
+/factory-method/factory-method.iml
+/factory-method/target/
+/abstract-factory/target/
+/abstract-factory/abstract-factory.iml
+/singleton/singleton.iml
+/singleton/target/
+/builder/builder.iml
+/builder/target/
+/prototype/prototype.iml
+/prototype/target/
+/adapter/adapter.iml
+/adapter/target/
+/decorator/decorator.iml
+/decorator/target/
+/proxy/proxy.iml
+/facade/facade.iml
+/facade/target/
+/bridge/bridge.iml
+/bridge/target/
+/composite/composite.iml
+/composite/target/
+/flyweight/flyweight.iml
+/flyweight/target/
+/strategy/strategy.iml
+/strategy/target/
+/template-method/template-method.iml
+/template-method/target/
+/observer/observer.iml
+/observer/target/
