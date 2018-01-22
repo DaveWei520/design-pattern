@@ -27,6 +27,8 @@
         <module>observer</module>
         <module>intermediary</module>
         <module>mediator</module>
+        <module>visitor</module>
+        <module>command</module>
     </modules>
 
     <properties>
