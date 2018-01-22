@@ -29,6 +29,7 @@
         <module>mediator</module>
         <module>visitor</module>
         <module>command</module>
+        <module>responsibility-chain</module>
     </modules>
 
     <properties>
