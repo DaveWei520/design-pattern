@@ -1,4 +1,4 @@
-package com.weiyu.singleton.demo;
+package com.weiyu.designPattern.singleton;
 
 /**
  * @author weiyu
