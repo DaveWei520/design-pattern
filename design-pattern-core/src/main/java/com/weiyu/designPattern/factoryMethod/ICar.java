@@ -1,5 +1,5 @@
 package com.weiyu.designPattern.factoryMethod;
 
-public interface IProduct {
-    void product();
+public interface ICar {
+    void drive();
 }

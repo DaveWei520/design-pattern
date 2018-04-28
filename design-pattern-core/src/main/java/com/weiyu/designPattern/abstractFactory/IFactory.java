@@ -1,4 +1,4 @@
-package com.weiyu.designPattern.factoryMethod;
+package com.weiyu.designPattern.abstractFactory;
 
 /**
  * @author weiyu
@@ -7,5 +7,5 @@ package com.weiyu.designPattern.factoryMethod;
  * @create 2017/12/26
  */
 public interface IFactory {
-    IProduct create();
+    IFruit create();
 }

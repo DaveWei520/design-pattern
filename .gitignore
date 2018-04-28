@@ -24,8 +24,9 @@
 hs_err_pid*
 
 /.idea/
-/abstract-factory/target/
-/abstract-factory/abstract-factory.iml
+/java-design-pattern-learning.iml
+/design-pattern-core/design-pattern-core.iml
+/design-pattern-core/target/
 /builder/builder.iml
 /builder/target/
 /prototype/prototype.iml
@@ -42,6 +43,3 @@ hs_err_pid*
 /template-method/target/
 /observer/observer.iml
 /observer/target/
-/design-pattern-core/design-pattern-core.iml
-/design-pattern-core/target/
-/java-design-pattern-learning.iml
