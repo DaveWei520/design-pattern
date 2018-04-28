@@ -1,4 +1,4 @@
-package com.weiyu.prototype.demo;
+package com.weiyu.designPattern.prototype;
 
 /**
  * @author weiyu
@@ -7,6 +7,24 @@ package com.weiyu.prototype.demo;
  * @create 2017/12/26
  */
 class Prototype implements Cloneable {
+    private String name;
+    private String type;
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public String getType() {
+        return type;
+    }
+
+    public void setType(String type) {
+        this.type = type;
+    }
 
     public Prototype clone(){
         Prototype prototype = null;
@@ -16,22 +34,5 @@ class Prototype implements Cloneable {
             e.printStackTrace();
         }
         return prototype;
-    }
-}
-
-class ConcretePrototype extends Prototype {
-    public void show(){
-        System.out.println("原型模式实现类");
-    }
-}
-
-public class PrototypeClient {
-
-    public static void main(String[] args) {
-        ConcretePrototype cp = new ConcretePrototype();
-        for (int i = 0; i < 10; i++){
-            ConcretePrototype clonecp = (ConcretePrototype) cp.clone();
-            clonecp.show();
-        }
     }
 }
