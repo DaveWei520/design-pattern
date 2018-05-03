@@ -27,8 +27,7 @@ hs_err_pid*
 /java-design-pattern-learning.iml
 /design-pattern-core/design-pattern-core.iml
 /design-pattern-core/target/
-/adapter/adapter.iml
-/decorator/decorator.iml
+
 /proxy/proxy.iml
 /facade/facade.iml
 /bridge/bridge.iml
