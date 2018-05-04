@@ -48,4 +48,14 @@ public class SingletonClient {
             ).start();
         }
     }
+
+    @Test
+    public void testCasSingleton(){
+        for (int i = 0; i < 100; i++) {
+            new Thread(() ->
+                    System.out.println(Thread.currentThread() + "  ======  " + CasSingleton.getInstance().hashCode())
+            ).start();
+        }
+    }
+
 }
