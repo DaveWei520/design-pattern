@@ -1,7 +1,7 @@
 package com.weiyu.designPattern.decorator;
 
 /**
- * @author weiyu@gomeholdings.com
+ * @author weiyu
  * @description
  * @create 2017/6/26
  */

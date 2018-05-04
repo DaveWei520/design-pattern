@@ -1,7 +1,7 @@
 package com.weiyu.designPattern.adapter;
 
 /**
- * @author weiyu@gomefinance.com.cn
+ * @author weiyu
  * @description 类适配器，通过继承来实现适配器功能
  * @create 2018/5/3 9:53
  * @since 1.0.0

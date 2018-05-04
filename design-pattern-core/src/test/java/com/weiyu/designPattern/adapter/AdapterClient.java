@@ -3,7 +3,7 @@ package com.weiyu.designPattern.adapter;
 import org.junit.Test;
 
 /**
- * @author weiyu@gomefinance.com.cn
+ * @author weiyu
  * @description 适配器模式测试类
  * @create 2018/5/3 9:56
  * @since 1.0.0

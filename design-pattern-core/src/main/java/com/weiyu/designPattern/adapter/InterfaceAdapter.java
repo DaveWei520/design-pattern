@@ -1,7 +1,7 @@
 package com.weiyu.designPattern.adapter;
 
 /**
- * @author weiyu@gomefinance.com.cn
+ * @author weiyu
  * @description 接口适配器模式，通过抽象类来适配
  * @create 2018/5/3 10:07
  * @since 1.0.0
