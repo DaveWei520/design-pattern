@@ -28,7 +28,6 @@ hs_err_pid*
 /design-pattern-core/design-pattern-core.iml
 /design-pattern-core/target/
 
-/bridge/bridge.iml
 /composite/composite.iml
 /flyweight/flyweight.iml
 /strategy/strategy.iml
