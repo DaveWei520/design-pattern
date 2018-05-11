@@ -3,7 +3,7 @@ package com.weiyu.designPattern.flyweight;
 import org.junit.Test;
 
 /**
- * @author weiyu@gomefinance.com.cn
+ * @author weiyu
  * @description
  * @create 2018/5/11 13:26
  * @since 1.0.0
