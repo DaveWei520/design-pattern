@@ -1,10 +1,10 @@
-package com.weiyu.composite;
+package com.weiyu.designPattern.composite;
 
 import java.util.Enumeration;
 import java.util.Vector;
 
 /**
- * @author weiyu@gomeholdings.com
+ * @author weiyu
  * @description
  * @create 2017/6/26
  */

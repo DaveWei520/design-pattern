@@ -1,7 +1,7 @@
 package com.weiyu.designPattern.facade;
 
 /**
- * @author weiyu@gomeholdings.com
+ * @author weiyu
  * @description 外观模式 facade
  * @create 2017/6/26
  */

@@ -1,7 +1,7 @@
 package com.weiyu.designPattern.bridge;
 
 /**
- * @author weiyu@gomefinance.com.cn
+ * @author weiyu
  * @description
  * @create 2018/5/11 10:28
  * @since 1.0.0
