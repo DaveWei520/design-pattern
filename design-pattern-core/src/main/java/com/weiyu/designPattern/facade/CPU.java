@@ -1,4 +1,4 @@
-package com.weiyu.facade;
+package com.weiyu.designPattern.facade;
 
 /**
  * @author weiyu@gomeholdings.com

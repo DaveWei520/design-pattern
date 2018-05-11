@@ -1,8 +1,8 @@
-package com.weiyu.facade;
+package com.weiyu.designPattern.facade;
 
 /**
  * @author weiyu@gomeholdings.com
- * @description 外观模式
+ * @description 外观模式 facade
  * @create 2017/6/26
  */
 public class Computer {
@@ -25,7 +25,7 @@ public class Computer {
     }
 
     public void shutdown(){
-        System.out.println("begin to close the computer!");
+        System.out.println("close the computer!");
         cpu.shutdown();
         memory.shutdown();
         disk.shutdown();
