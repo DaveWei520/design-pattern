@@ -1,7 +1,7 @@
 package com.weiyu.designPattern.observer;
 
 /**
- * @author weiyu@gomefinance.com.cn
+ * @author weiyu
  * @description
  * @create 2018/5/14 16:13
  * @since 1.0.0
