@@ -1,7 +1,7 @@
 package com.weiyu.designPattern.templateMethod;
 
 /**
- * @author weiyu@gomefinance.com.cn
+ * @author weiyu
  * @description
  * @create 2018/5/14 15:41
  * @since 1.0.0
