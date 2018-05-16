@@ -4,12 +4,12 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
         <artifactId>java-design-pattern-learning</artifactId>
-        <groupId>com.weiyu.designPattern</groupId>
+        <groupId>willem.weiyu.designPattern</groupId>
         <version>1.0-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.weiyu.designPattern</groupId>
+    <groupId>willem.weiyu.designPattern</groupId>
     <artifactId>design-pattern-core</artifactId>
 
     <build>
