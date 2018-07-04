@@ -6,12 +6,7 @@
 
     <groupId>willem.weiyu.designPattern</groupId>
     <artifactId>java-design-pattern-learning</artifactId>
-    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
-
-    <modules>
-        <module>design-pattern-core</module>
-    </modules>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
