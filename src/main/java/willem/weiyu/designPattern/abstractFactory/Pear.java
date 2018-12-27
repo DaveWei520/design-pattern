@@ -1,10 +1,12 @@
 package willem.weiyu.designPattern.abstractFactory;
 
-import willem.weiyu.designPattern.abstractFactory.IFruit;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 public class Pear implements IFruit {
+    private final Logger log = LoggerFactory.getLogger(getClass());
     @Override
     public void product() {
-        System.out.println("======生产梨");
+        log.debug("******{}","生产梨");
     }
 }
